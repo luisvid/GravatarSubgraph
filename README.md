@@ -1,15 +1,15 @@
-# Example Subgraph
+# first steps with TheGraph
 
-An example to get started with The Graph using Hosted Service and Gravatar smart contract
+An example of how to get started with The Graph using Hosted Service and the Gravatar smart contract
 
-### 1. Install the Graph CLI​
+### 1. Install the Graph CLI
 
 ```
 NPM
 $ npm install -g @graphprotocol/graph-cli
 ```
 
-### 2. Initialize your Subgraph​
+### 2. Initialize your Subgraph
 
 Initialize your subgraph from an existing contract.
 
@@ -35,7 +35,7 @@ Subgraph luisvid/subgraphtest created in subgraphtest
 In the case of the example, the subgraph is based on the Gravity contract by Dani Grant that manages user avatars and emits NewGravatar or UpdateGravatar events whenever avatars are created or updated.
 
 
-### 3. Write your Subgraph​
+### 3. Write your Subgraph
 The previous command will have created a scaffold from where you can build your subgraph. When making changes to the subgraph, you will mainly work with three files:
 
 - Manifest (subgraph.yaml) - The manifest defines what datasources your subgraph will index
@@ -43,7 +43,7 @@ The previous command will have created a scaffold from where you can build your 
 - AssemblyScript Mappings (mapping.ts) - This is the code that translates data from your datasources to the entities defined in the schema
 
 
-### 4. Deploy your Subgraph​
+### 4. Deploy your Subgraph
 
 - Sign into the Hosted Service using your github account
 - Click Add Subgraph and fill out the required information. Use the same subgraph name as in step 2.
@@ -104,4 +104,13 @@ Sample query:
 }
 ```
 
+![image](https://user-images.githubusercontent.com/330947/145645990-bc11403a-c34a-45e7-bc25-55e5d525b33b.png)
+
 For more information see the docs on https://thegraph.com/docs/developer/quick-start#hosted-service.
+
+Have fun! 😀
+Let's #BUIDL 🚀
+
+![BUIDL_Logo_White](https://user-images.githubusercontent.com/330947/145646882-9319ba26-b56e-41c5-a790-a98f771768de.png)
+
+
