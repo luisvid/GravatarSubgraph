@@ -106,10 +106,17 @@ Sample query:
 
 ![image](https://user-images.githubusercontent.com/330947/145645990-bc11403a-c34a-45e7-bc25-55e5d525b33b.png)
 
-For more information see the docs on https://thegraph.com/docs/developer/quick-start#hosted-service.
 
-Have fun! 😀
-Let's #BUIDL 🚀
+### For more information 
+
+- see the docs on https://thegraph.com/docs/developer/quick-start#hosted-service.
+- For great and real examples https://github.com/SimpleFi-finance/subgraphs
+
+ \
+ \
+ 
+**Have fun! 😀
+Let's #BUIDL 🚀**
 
 ![BUIDL_Logo_White](https://user-images.githubusercontent.com/330947/145646882-9319ba26-b56e-41c5-a790-a98f771768de.png)
 
